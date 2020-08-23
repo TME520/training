@@ -10,6 +10,10 @@ OSINT stands for Open Source Intelligence.
 - https://www.sans.org/course/open-source-intelligence-gathering
 - https://www.tracelabs.org/
 
+## Hardware identification
+
+- https://macvendors.com/
+
 ## Username Finding
 
 - https://knowem.com/
