@@ -23,3 +23,9 @@ Boom! Just copied http://cl.ly/NwCS/shirt.gif to your clipboard.
 $ boom delete gifs shirt
 Boom! shirt is gone forever.
 ```
+
+- https://github.com/holman/spark
+
+sparklines for your shell.
+
+
