@@ -31,3 +31,8 @@ sparklines for your shell.
 - https://github.com/raylee/tldr-sh-client
 
 `tldr` gives you access to enhanced help pages for shell commands. Unlike `man`, this tool provides concise, straight-to-the-point help with examples.
+
+- https://github.com/arialdomartini/oh-my-git
+
+A nice shell prompt for GIT users.
+
