@@ -14,6 +14,7 @@ OSINT stands for Open Source Intelligence.
 
 - https://macvendors.com/
 - https://fccid.io/
+- https://uic.win/en/mac/
 
 ## Username Finding
 
