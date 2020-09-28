@@ -13,6 +13,7 @@ OSINT stands for Open Source Intelligence.
 ## Hardware identification
 
 - https://macvendors.com/
+- https://www.wireshark.org/tools/oui-lookup.html
 - https://fccid.io/
 - https://uic.win/en/mac/
 
