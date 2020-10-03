@@ -46,6 +46,7 @@ OSINT stands for Open Source Intelligence.
 ## Network Recon
 
 - https://www.shodan.io/
+- https://leakix.net/
 
 ## Reverse Image Searching
 
